@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+#myProgress{
+
+  width:100%;
+  background: #ddd;
+}
+
+#myBar{
+  background:#4CAF50;
+  width:10%
+  height:35px;
+  padding:4px;
+  border-radius:5px;
+  text-align:center;
+  color:white;
+}
